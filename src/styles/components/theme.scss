@@ -1,0 +1,15 @@
+.buttonTheme{
+  height: 2rem;
+  width: 5rem;
+  background: transparent;
+  border: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-top: 4rem;
+  cursor: pointer;
+  .icon {
+    font-size: 2rem;
+  }
+
+}

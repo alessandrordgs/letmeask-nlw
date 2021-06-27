@@ -3,6 +3,10 @@
   align-items: stretch;
   height: 100vh;
 
+  &.dark{
+    background-color: #2D3748;
+  }
+
   aside{
     flex: 7;
 
